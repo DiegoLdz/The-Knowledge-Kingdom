@@ -1,0 +1,1 @@
+La string de interpolacion sirve para tranajar con codigo mas limpio, la manera de utilizarlo es usando un signo de dolar "$" antes de las comillas de la string y dentro de la string asignando la variable dentro de corchetes 
